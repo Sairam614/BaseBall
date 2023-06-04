@@ -20,14 +20,6 @@ public class Baseball {
 
             System.out.println();
             System.out.println("Inning number " + inning);
-
-            /* The method used here for generating a random number of runs
-             * will generate an integer in the range 0 to 6, with 0 being
-             * the most common value and the probability decreasing as the
-             * number of runs increases.  This is done by raising a random
-             * number between 0 and 1 to the tenth power.  Raising a number
-             * between 0 and 1 to a power makes that number smaller, which
-             * makes it more likely to be close to zero. */
             
             yankeesRuns = (int)( 7*Math.pow(Math.random(),10) );
             System.out.println("   The Yankees score " + yankeesRuns + " runs");
