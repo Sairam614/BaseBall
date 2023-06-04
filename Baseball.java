@@ -1,11 +1,6 @@
-// Note:  This version of the solution to the Baseball exercise uses some
-// things that were not covered at the time of the lab.  See BaseballBasi.java
-// for a solution that uses only things that had been covered before the lab.
 
-
-/**
- * This program simulates a game of baseball between the Yankees and the
- * Red Sox.  This is a very simple simulation in which the number of runs
+ * This program is a game of baseball between the Yankees and the
+ * Red Sox.  This is a very simple code in which the number of runs
  * scored by each team in each inning is generated randomly.
  */
 public class Baseball {
