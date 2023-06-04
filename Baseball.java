@@ -1,8 +1,8 @@
 
- * This program is a game of baseball between the Yankees and the
- * Red Sox.  This is a very simple code in which the number of runs
- * scored by each team in each inning is generated randomly.
- */
+ This program is a game of baseball between the Yankees and the
+ Red Sox.  This is a very simple code in which the number of runs
+ scored by each team in each inning is generated randomly.
+
 public class Baseball {
     
     public static void main( String[] args ) {
